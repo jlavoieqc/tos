@@ -1,12 +1,10 @@
-A Terms of Service (ToS) agreement outlines the rules and conditions that users must agree to in order to use a service or website. Keep in mind that creating a ToS should involve legal consultation, as specific legal requirements can vary. Here's a basic template to get you started:
-
-GiftApp Terms of Service
+Gift Finder Terms of Service
 
 Last Updated: 2023-12-22
 
 1. Acceptance of Terms
 
-By accessing or using GiftApp, you agree to comply with and be bound by these Terms of Service.
+By accessing or using Gift Finder, you agree to comply with and be bound by these Terms of Service.
 
 2. Use of the Service
 
@@ -18,7 +16,7 @@ To access certain features of the Service, you may be required to create an acco
 
 4. Content
 
-You retain ownership of any content you submit or upload to the Service. By doing so, you grant [Your Company/Service Name] a non-exclusive, worldwide, royalty-free license to use, reproduce, and distribute the content.
+You retain ownership of any content you submit or upload to the Service. By doing so, you grant Gift Finder a non-exclusive, worldwide, royalty-free license to use, reproduce, and distribute the content.
 
 5. Prohibited Conduct
 
@@ -27,9 +25,10 @@ You agree not to engage in any conduct that may violate these Terms or the law, 
 Unauthorized access to the Service.
 Distribution of spam or any form of unsolicited communication.
 Impersonation of others or providing false information.
+
 6. Intellectual Property
 
-The Service and its original content, features, and functionality are owned by [Your Company/Service Name] and are protected by international copyright, trademark, patent, trade secret, and other intellectual property or proprietary rights laws.
+The Service and its original content, features, and functionality are owned by Gift Finder and are protected by international copyright, trademark, patent, trade secret, and other intellectual property or proprietary rights laws.
 
 7. Termination
 
@@ -41,7 +40,7 @@ The Service is provided "as is" without warranties of any kind, either express o
 
 9. Limitation of Liability
 
-In no event shall GiftApp be liable for any indirect, incidental, special, consequential, or punitive damages.
+In no event shall Gift Finder be liable for any indirect, incidental, special, consequential, or punitive damages.
 
 10. Governing Law
 
@@ -49,7 +48,7 @@ These Terms shall be governed and construed in accordance with the laws of Canad
 
 11. Changes to Terms
 
-GiftApp reserves the right to modify or replace these Terms at any time. The most recent version will be posted on the Service.
+Gift Finder reserves the right to modify or replace these Terms at any time. The most recent version will be posted on the Service.
 
 Contact Us
 
