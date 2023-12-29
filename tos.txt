@@ -1,6 +1,6 @@
 Gift Finder Terms of Service
 
-Last Updated: 2023-12-22
+Last Updated: 2023-12-29
 
 1. Acceptance of Terms
 
@@ -25,31 +25,44 @@ You agree not to engage in any conduct that may violate these Terms or the law, 
 Unauthorized access to the Service.
 Distribution of spam or any form of unsolicited communication.
 Impersonation of others or providing false information.
-
 6. Intellectual Property
 
 The Service and its original content, features, and functionality are owned by Gift Finder and are protected by international copyright, trademark, patent, trade secret, and other intellectual property or proprietary rights laws.
 
-7. Termination
+7. Use of Amazon Images
+
+a. Gift Finder uses images from Amazon to provide information about products and services. These images are the property of Amazon or their respective owners.
+
+b. All intellectual property rights associated with the Amazon images are owned by Amazon or their respective owners.
+
+c. Users must comply with Amazon's terms of service and policies when accessing or using the images through Gift Finder.
+
+d. Users are granted a limited, non-exclusive license to use the Amazon images within the context of Gift Finder, subject to compliance with these Terms.
+
+8. Termination
 
 We reserve the right to terminate or suspend your account and access to the Service at our sole discretion, without notice, for conduct that we believe violates these Terms or is harmful to other users or us.
 
-8. Disclaimer of Warranties
+9. Disclaimer of Warranties
 
 The Service is provided "as is" without warranties of any kind, either express or implied.
 
-9. Limitation of Liability
+10. Limitation of Liability
 
 In no event shall Gift Finder be liable for any indirect, incidental, special, consequential, or punitive damages.
 
-10. Governing Law
+11. Governing Law
 
 These Terms shall be governed and construed in accordance with the laws of Canada, without regard to its conflict of law provisions.
 
-11. Changes to Terms
+12. Changes to Terms
 
 Gift Finder reserves the right to modify or replace these Terms at any time. The most recent version will be posted on the Service.
 
 Contact Us
 
 If you have any questions about these Terms, please contact us at hearmusix@gmail.com.
+
+Please note that it's crucial to consult with a legal professional to ensure that your Terms of Service addresses your specific circumstances and is compliant with relevant laws and regulations.
+
+
